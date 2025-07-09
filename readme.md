@@ -20,19 +20,19 @@ git clone https://github.com/YongzeYang/warn-gcc.git
 cd warn-gcc
 
 # Make it executable (obviously)
-chmod +x warn-gcc-en.sh
+chmod +x warn-gcc.sh
 
 # Replace your boring compilation
-./warn-gcc-en.sh --sarcastic -Wall your_code.cpp -o your_program
+./warn-gcc.sh --sarcastic -Wall your_code.cpp -o your_program
 ```
 
 ### Pro Gamer Moves
 
 ```bash
 # Set up aliases like a chad
-alias gcc-gentleman='./warn-gcc-en.sh --polite'
-alias gcc-savage='./warn-gcc-en.sh --sarcastic'  
-alias gcc-berserker='./warn-gcc-en.sh --angry'
+alias gcc-gentleman='./warn-gcc.sh --polite'
+alias gcc-savage='./warn-gcc.sh --sarcastic'  
+alias gcc-berserker='./warn-gcc.sh --angry'
 
 # Now destroy GCC in style
 gcc-savage -Wall -Wextra my_perfectly_fine_code.cpp
@@ -44,7 +44,7 @@ Want to document your epic battles against GCC? Enable logging!
 
 ```
 # Log the carnage
-./warn-gcc-en.sh --log=epic_battles.log --angry -Wall main.cpp
+./warn-gcc.sh --log=epic_battles.log --angry -Wall main.cpp
 
 # Share your victories with the world
 cat epic_battles.log
