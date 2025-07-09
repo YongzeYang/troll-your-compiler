@@ -19,7 +19,7 @@ Tired of being nagged by your compiler? Fed up with GCC's constant whining? Time
 ```bash
 # Clone this legendary repo
 git clone https://github.com/YongzeYang/troll-your-compiler.git
-cd warn-gcc
+cd troll-your-compiler
 
 # Make it executable (obviously)
 chmod +x warn-gcc.sh
