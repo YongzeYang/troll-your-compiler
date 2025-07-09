@@ -1,4 +1,4 @@
-# Warn-Compiler - Turn the Tables on GCC! 🔥
+# Troll-Your-Compiler - Turn the Tables on GCC! 🔥
 
 A hilarious GCC wrapper that lets your program warn the compiler instead of being warned by it!
 
