@@ -14,8 +14,8 @@ For English version, [please click here](/readme.md).
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YongzeYang/warn-compiler.git
-cd warn-compiler
+git clone https://github.com/YongzeYang/troll-your-compiler.git
+cd troll-your-compiler
 
 # 给脚本执行权限
 chmod +x warn-gcc-cn.sh
