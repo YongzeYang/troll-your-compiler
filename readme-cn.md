@@ -1,4 +1,4 @@
-# Warn-Compiler - 编译时警告GCC，而不是GCC警告！
+# Warn-Compiler - 编译时警告GCC，而不是被GCC警告！
 
 一个超级抽象的GCC包装器，让你的程序反过来警告编译器，而不是被编译器警告！
 
