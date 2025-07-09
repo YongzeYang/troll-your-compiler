@@ -1,6 +1,8 @@
 # Troll-Your-Compiler - Turn the Tables on GCC! 🔥
 
-A hilarious GCC wrapper that lets your program warn the compiler instead of being warned by it!
+A GCC wrapper that lets your program warn the compiler instead of being warned by it!
+
+*"In a world where compilers judge your code... one program dared to judge back."* 
 
 对于简体中文版本，[请点击这里](/readme-cn.md)。
 
@@ -16,7 +18,7 @@ Tired of being nagged by your compiler? Fed up with GCC's constant whining? Time
 
 ```bash
 # Clone this legendary repo
-git clone https://github.com/YongzeYang/warn-gcc.git
+git clone https://github.com/YongzeYang/troll-your-compiler.git
 cd warn-gcc
 
 # Make it executable (obviously)
