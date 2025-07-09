@@ -1,0 +1,37 @@
+=== [2025-07-09 18:03:07] Compilation Started ===
+Mode: sarcastic
+Command: gcc -Wall test.cpp -o test
+
+[2025-07-09 18:03:07] Error response[sarcastic]: Well STONE THE CROWS! GCC found an 'error': 'use of undeclared identifier 'undefined_function_call''
+[2025-07-09 18:03:07] Error response[sarcastic]: KNOCK ME OVER with a feather! GCC sees an 'error': 'use of undeclared identifier 'another_mystery_function''
+[2025-07-09 18:03:07] Error response[sarcastic]: Well I'll be DAMNED! GCC discovered an 'error': 'no matching member function for call to 'push_back''
+[2025-07-09 18:03:07] Note[sarcastic]: candidate function not viable: no known conversion from 'const char[13]' to 'const value_type' (aka 'const int') for 1st argument
+[2025-07-09 18:03:07] Note[sarcastic]: candidate function not viable: no known conversion from 'const char[13]' to 'value_type' (aka 'int') for 1st argument
+[2025-07-09 18:03:07] Warning response[sarcastic]: Thunderation! GCC objects to 'implicit conversion from 'double' to 'value_type' (aka 'int') changes value from 3.14 to 3 '
+[2025-07-09 18:03:07] Warning response[sarcastic]: Call the authorities! GCC spotted 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:03:07] Specific response[sarcastic]: Format schmformat! I have artistic vision! 🎨
+[2025-07-09 18:03:07] Warning response[sarcastic]: Golly gee willickers! GCC doesn't approve of 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:03:07] Specific response[sarcastic]: Format schmformat! I have artistic vision! 🎨
+[2025-07-09 18:03:07] Warning response[sarcastic]: Oh mercy me! GCC has found fault with 'format specifies type 'int' but the argument has type 'double' '
+[2025-07-09 18:03:07] Specific response[sarcastic]: Format schmformat! I have artistic vision! 🎨
+[2025-07-09 18:03:07] Warning response[sarcastic]: Land sakes alive! GCC objects to 'using the result of an assignment as a condition without parentheses '
+[2025-07-09 18:03:07] Note[sarcastic]: place parentheses around the assignment to silence this warning
+[2025-07-09 18:03:07] Note[sarcastic]: use '==' to turn this assignment into an equality comparison
+[2025-07-09 18:03:07] Error response[sarcastic]: Oh please, GCC! As if THIS is actually an error: 'non-void function 'main' should return a value [-Wreturn-type]'
+[2025-07-09 18:03:07] Error response[sarcastic]: Well I'll be GOBSMACKED! GCC noticed an 'error': 'expected ';' at end of declaration'
+[2025-07-09 18:03:07] Warning response[sarcastic]: Great Caesar's ghost! GCC is upset about 'unused variable 'another_unused' '
+[2025-07-09 18:03:07] Specific response[sarcastic]: Oh no! An unused variable! Call the police! 🚨
+[2025-07-09 18:03:07] Warning response[sarcastic]: Tarnation! GCC doesn't approve of 'unused variable 'value' '
+[2025-07-09 18:03:07] Specific response[sarcastic]: Oh no! An unused variable! Call the police! 🚨
+[2025-07-09 18:03:07] Warning response[sarcastic]: Balderdash and poppycock! GCC is nitpicking 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:03:07] Specific response[sarcastic]: Format schmformat! I have artistic vision! 🎨
+[2025-07-09 18:03:07] Warning response[sarcastic]: How utterly FASCINATING that GCC noticed 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:03:07] Specific response[sarcastic]: Format schmformat! I have artistic vision! 🎨
+[2025-07-09 18:03:07] Warning response[sarcastic]: What a STUNNING discovery from GCC about 'format specifies type 'double' but the argument has type 'const char *' '
+[2025-07-09 18:03:07] Specific response[sarcastic]: Format schmformat! I have artistic vision! 🎨
+[2025-07-09 18:03:07] Warning response[sarcastic]: Really, GCC? You're going to complain about 'more '%' conversions than data arguments '
+[2025-07-09 18:03:07] Warning response[sarcastic]: By George! GCC has issues with 'data argument not used by format string '
+[2025-07-09 18:03:07] Specific response[sarcastic]: Format schmformat! I have artistic vision! 🎨
+Exit code: 1
+=== [2025-07-09 18:03:07] Compilation Ended ===
+

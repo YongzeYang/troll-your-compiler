@@ -1,0 +1,40 @@
+=== [2025-07-09 18:01:50] 编译开始 ===
+模式: angry
+命令: gcc -Wall test.cpp -o test
+
+[2025-07-09 18:01:50] 错误回应[angry]: 你🐎在功德林刷火箭呢？GCC： 'use of undeclared identifier 'undefined_function_call''
+[2025-07-09 18:01:50] 错误回应[angry]: 你🐎在流沙河潜水呢？GCC： 'use of undeclared identifier 'another_mystery_function''
+[2025-07-09 18:01:50] 错误回应[angry]: 你🐎在八卦炉里炼丹呢？GCC： 'no matching member function for call to 'push_back''
+[2025-07-09 18:01:50] 备注[angry]: candidate function not viable: no known conversion from 'const char[13]' to 'const value_type' (aka 'const int') for 1st argument
+[2025-07-09 18:01:50] 备注[angry]: candidate function not viable: no known conversion from 'const char[13]' to 'value_type' (aka 'int') for 1st argument
+[2025-07-09 18:01:50] 警告回应[angry]: 你🐎在女儿国开银趴呢？GCC： 'implicit conversion from 'double' to 'value_type' (aka 'int') changes value from 3.14 to 3 '
+[2025-07-09 18:01:50] 特定回应[angry]: 爪巴！GCC少管闲事！
+[2025-07-09 18:01:50] 警告回应[angry]: 我测你🐎GCC！少管： 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:01:50] 特定回应[angry]: 再BB格式把你格式化了！💣
+[2025-07-09 18:01:50] 警告回应[angry]: 你🐎在火焰山烤自己呢？GCC： 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:01:50] 特定回应[angry]: 格式也要管？你寄吧谁啊？👊
+[2025-07-09 18:01:50] 警告回应[angry]: 你🐎灵堂KTV呢？GCC： 'format specifies type 'int' but the argument has type 'double' '
+[2025-07-09 18:01:50] 特定回应[angry]: 格式也要管？你寄吧谁啊？👊
+[2025-07-09 18:01:50] 警告回应[angry]: 你🐎在火焰山烤自己呢？GCC： 'using the result of an assignment as a condition without parentheses '
+[2025-07-09 18:01:50] 特定回应[angry]: 我CNM的GCC！管好你自己！
+[2025-07-09 18:01:50] 备注[angry]: place parentheses around the assignment to silence this warning
+[2025-07-09 18:01:50] 备注[angry]: use '==' to turn this assignment into an equality comparison
+[2025-07-09 18:01:50] 错误回应[angry]: 你🐎在瑶池开直播呢？GCC： 'non-void function 'main' should return a value [-Wreturn-type]'
+[2025-07-09 18:01:50] 错误回应[angry]: 你🐎在流沙河当王八呢？GCC： 'expected ';' at end of declaration'
+[2025-07-09 18:01:50] 警告回应[angry]: 你🐎在通天河冲浪呢？GCC： 'unused variable 'another_unused' '
+[2025-07-09 18:01:50] 特定回应[angry]: 管你P事？这变量老子供着玩！💢
+[2025-07-09 18:01:50] 警告回应[angry]: 你🐎没了GCC！别BB： 'unused variable 'value' '
+[2025-07-09 18:01:50] 特定回应[angry]: 老子爱定义多少变量就定义多少！你🐎都没你管得宽！🤬
+[2025-07-09 18:01:50] 警告回应[angry]: 你🐎在女儿国选妃呢？GCC： 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:01:50] 特定回应[angry]: 格式警察又出警了？👮
+[2025-07-09 18:01:50] 警告回应[angry]: RNM退钱！GCC少管： 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:01:50] 特定回应[angry]: 格式警察又出警了？👮
+[2025-07-09 18:01:50] 警告回应[angry]: 你🐎在火焰山烧烤呢？GCC： 'format specifies type 'double' but the argument has type 'const char *' '
+[2025-07-09 18:01:50] 特定回应[angry]: 格式警察又出警了？👮
+[2025-07-09 18:01:50] 警告回应[angry]: RNM退钱！GCC少管： 'more '%' conversions than data arguments '
+[2025-07-09 18:01:50] 特定回应[angry]: 你🐎在骨灰盒里仰卧起坐呢？管这么宽！💣
+[2025-07-09 18:01:50] 警告回应[angry]: 你🐎在流沙河摸鱼呢？GCC： 'data argument not used by format string '
+[2025-07-09 18:01:50] 特定回应[angry]: 格式你🐎！这样写有寄吧问题？爪巴！💢
+编译退出码: 1
+=== [2025-07-09 18:01:50] 编译结束 ===
+

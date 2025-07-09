@@ -1,0 +1,40 @@
+=== [2025-07-09 18:02:44] 编译开始 ===
+模式: sarcastic
+命令: gcc -Wall test.cpp -o test
+
+[2025-07-09 18:02:44] 错误回应[sarcastic]: 典！太典了！GCC说这是'错误'🤡 'use of undeclared identifier 'undefined_function_call''
+[2025-07-09 18:02:44] 错误回应[sarcastic]: 好家伙我直接好家伙！GCC： 'use of undeclared identifier 'another_mystery_function''
+[2025-07-09 18:02:44] 错误回应[sarcastic]: 绝绝子！GCC权威认证'错误'： 'no matching member function for call to 'push_back''
+[2025-07-09 18:02:44] 备注[sarcastic]: candidate function not viable: no known conversion from 'const char[13]' to 'const value_type' (aka 'const int') for 1st argument
+[2025-07-09 18:02:44] 备注[sarcastic]: candidate function not viable: no known conversion from 'const char[13]' to 'value_type' (aka 'int') for 1st argument
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 寄！GCC大聪明觉得： 'implicit conversion from 'double' to 'value_type' (aka 'int') changes value from 3.14 to 3 '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 绷不住了🤣 GCC经典操作
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 离离原上谱！GCC： 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 我的格式我做主，懂？🤙
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 赢麻了！GCC又拿捏： 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 格式化？我有我的抽象美学！你懂个🍑？
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 绝绝子yyds！GCC： 'format specifies type 'int' but the argument has type 'double' '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 格式化？我有我的抽象美学！你懂个🍑？
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 好崩！GCC又在： 'using the result of an assignment as a condition without parentheses '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 典！太典了！GCC又在BB了🤏
+[2025-07-09 18:02:44] 备注[sarcastic]: place parentheses around the assignment to silence this warning
+[2025-07-09 18:02:44] 备注[sarcastic]: use '==' to turn this assignment into an equality comparison
+[2025-07-09 18:02:44] 错误回应[sarcastic]: 寄！GCC大聪明发现'错误'： 'non-void function 'main' should return a value [-Wreturn-type]'
+[2025-07-09 18:02:44] 错误回应[sarcastic]: 蚌埠住了蚌埠住了！GCC： 'expected ';' at end of declaration'
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 离离原上谱！GCC： 'unused variable 'another_unused' '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 这叫赛博佛系变量，懂？🪷
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 属于是绷不住了🤡 GCC说： 'unused variable 'value' '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 变量不用怎么了？它在冥想！🧘‍♀️ 你懂个寄吧抽象编程？
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 典中典！GCC又在： 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 格式化？笑死，根本不需要😏
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 急了急了？GCC又在乎： 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 我的格式我做主，懂？🤙
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 抽象！太抽象了！GCC： 'format specifies type 'double' but the argument has type 'const char *' '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 我的格式我做主，懂？🤙
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 蚌！GCC大师又： 'more '%' conversions than data arguments '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 寄！GCC大聪明又发现了
+[2025-07-09 18:02:44] 警告回应[sarcastic]: 寄！开香槟咯！GCC： 'data argument not used by format string '
+[2025-07-09 18:02:44] 特定回应[sarcastic]: 格式化？我有我的抽象美学！你懂个🍑？
+编译退出码: 1
+=== [2025-07-09 18:02:44] 编译结束 ===
+

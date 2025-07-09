@@ -1,0 +1,28 @@
+=== [2025-07-09 18:04:08] 编译开始 ===
+模式: normal
+命令: gcc -Wall test.cpp -o test
+
+[2025-07-09 18:04:08] 错误回应[normal]: 程序强烈反对GCC的指控： 'use of undeclared identifier 'undefined_function_call''
+[2025-07-09 18:04:08] 错误回应[normal]: 程序强烈反对GCC的指控： 'use of undeclared identifier 'another_mystery_function''
+[2025-07-09 18:04:08] 错误回应[normal]: 程序强烈反对GCC的指控： 'no matching member function for call to 'push_back''
+[2025-07-09 18:04:08] 备注[normal]: candidate function not viable: no known conversion from 'const char[13]' to 'const value_type' (aka 'const int') for 1st argument
+[2025-07-09 18:04:08] 备注[normal]: candidate function not viable: no known conversion from 'const char[13]' to 'value_type' (aka 'int') for 1st argument
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'implicit conversion from 'double' to 'value_type' (aka 'int') changes value from 3.14 to 3 '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'format specifies type 'int' but the argument has type 'double' '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'using the result of an assignment as a condition without parentheses '
+[2025-07-09 18:04:08] 备注[normal]: place parentheses around the assignment to silence this warning
+[2025-07-09 18:04:08] 备注[normal]: use '==' to turn this assignment into an equality comparison
+[2025-07-09 18:04:08] 错误回应[normal]: 程序强烈反对GCC的指控： 'non-void function 'main' should return a value [-Wreturn-type]'
+[2025-07-09 18:04:08] 错误回应[normal]: 程序强烈反对GCC的指控： 'expected ';' at end of declaration'
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'unused variable 'another_unused' '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'unused variable 'value' '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'format specifies type 'double' but the argument has type 'const char *' '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'more '%' conversions than data arguments '
+[2025-07-09 18:04:08] 警告回应[normal]: 程序警告GCC： 'data argument not used by format string '
+编译退出码: 1
+=== [2025-07-09 18:04:08] 编译结束 ===
+

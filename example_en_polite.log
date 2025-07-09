@@ -1,0 +1,37 @@
+=== [2025-07-09 18:03:36] Compilation Started ===
+Mode: polite
+Command: gcc -Wall test.cpp -o test
+
+[2025-07-09 18:03:36] Error response[polite]: Dear distinguished compiler, I humbly contest this error judgment: 'use of undeclared identifier 'undefined_function_call''
+[2025-07-09 18:03:36] Error response[polite]: Dear honorable GCC, I believe you've mischaracterized this as an error: 'use of undeclared identifier 'another_mystery_function''
+[2025-07-09 18:03:36] Error response[polite]: If I may humbly suggest, GCC, this isn't really an error: 'no matching member function for call to 'push_back''
+[2025-07-09 18:03:36] Note[polite]: candidate function not viable: no known conversion from 'const char[13]' to 'const value_type' (aka 'const int') for 1st argument
+[2025-07-09 18:03:36] Note[polite]: candidate function not viable: no known conversion from 'const char[13]' to 'value_type' (aka 'int') for 1st argument
+[2025-07-09 18:03:36] Warning response[polite]: Dear venerable compiler, I politely disagree with your stance on 'implicit conversion from 'double' to 'value_type' (aka 'int') changes value from 3.14 to 3 '
+[2025-07-09 18:03:36] Warning response[polite]: Respectfully, dear compiler, I believe you've misunderstood 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:03:36] Specific response[polite]: This formatting has a certain je ne sais quoi 🎭
+[2025-07-09 18:03:36] Warning response[polite]: Dear esteemed GCC, I politely request reconsideration of 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:03:36] Specific response[polite]: This formatting has a certain je ne sais quoi 🎭
+[2025-07-09 18:03:36] Warning response[polite]: If I may gently disagree, GCC, your warning about 'format specifies type 'int' but the argument has type 'double' '
+[2025-07-09 18:03:36] Specific response[polite]: This formatting has a certain je ne sais quoi 🎭
+[2025-07-09 18:03:36] Warning response[polite]: Dear compiler, with the greatest respect, I contest 'using the result of an assignment as a condition without parentheses '
+[2025-07-09 18:03:36] Note[polite]: place parentheses around the assignment to silence this warning
+[2025-07-09 18:03:36] Note[polite]: use '==' to turn this assignment into an equality comparison
+[2025-07-09 18:03:36] Error response[polite]: If I may respectfully differ, dear compiler, this error seems questionable: 'non-void function 'main' should return a value [-Wreturn-type]'
+[2025-07-09 18:03:36] Error response[polite]: Respectfully, dear compiler, I believe you've been overzealous about: 'expected ';' at end of declaration'
+[2025-07-09 18:03:36] Warning response[polite]: If I may courteously object, GCC, your opinion on 'unused variable 'another_unused' '
+[2025-07-09 18:03:36] Specific response[polite]: Perhaps this variable serves a higher purpose 🙏
+[2025-07-09 18:03:36] Warning response[polite]: With utmost politeness, GCC, I believe you're mistaken about 'unused variable 'value' '
+[2025-07-09 18:03:36] Specific response[polite]: Perhaps this variable serves a higher purpose 🙏
+[2025-07-09 18:03:36] Warning response[polite]: With all due respect, GCC, I believe you're mistaken about 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:03:36] Specific response[polite]: This formatting has a certain je ne sais quoi 🎭
+[2025-07-09 18:03:36] Warning response[polite]: If I may politely suggest, GCC, perhaps you're being overly cautious about 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:03:36] Specific response[polite]: This formatting has a certain je ne sais quoi 🎭
+[2025-07-09 18:03:36] Warning response[polite]: Dear compiler, I kindly request you reconsider your warning about 'format specifies type 'double' but the argument has type 'const char *' '
+[2025-07-09 18:03:36] Specific response[polite]: This formatting has a certain je ne sais quoi 🎭
+[2025-07-09 18:03:36] Warning response[polite]: GCC, with utmost respect, I believe your warning regarding 'more '%' conversions than data arguments '
+[2025-07-09 18:03:36] Warning response[polite]: Dear GCC, I hope you'll kindly reconsider your position on 'data argument not used by format string '
+[2025-07-09 18:03:36] Specific response[polite]: This formatting has a certain je ne sais quoi 🎭
+Exit code: 1
+=== [2025-07-09 18:03:36] Compilation Ended ===
+

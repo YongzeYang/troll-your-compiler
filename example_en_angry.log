@@ -1,0 +1,37 @@
+=== [2025-07-09 18:03:24] Compilation Started ===
+Mode: angry
+Command: gcc -Wall test.cpp -o test
+
+[2025-07-09 18:03:24] Error response[angry]: YOU'RE ABSOLUTELY BONKERS, GCC! This isn't an error: 'use of undeclared identifier 'undefined_function_call''
+[2025-07-09 18:03:24] Error response[angry]: WHAT KIND OF BULLSHIT IS THIS, GCC?! This isn't an error: 'use of undeclared identifier 'another_mystery_function''
+[2025-07-09 18:03:24] Error response[angry]: YOU'RE ABSOLUTELY FUCKING NUTS, GCC! This isn't an error: 'no matching member function for call to 'push_back''
+[2025-07-09 18:03:24] Note[angry]: candidate function not viable: no known conversion from 'const char[13]' to 'const value_type' (aka 'const int') for 1st argument
+[2025-07-09 18:03:24] Note[angry]: candidate function not viable: no known conversion from 'const char[13]' to 'value_type' (aka 'int') for 1st argument
+[2025-07-09 18:03:24] Warning response[angry]: GET BENT, GCC! Your stupid concern about 'implicit conversion from 'double' to 'value_type' (aka 'int') changes value from 3.14 to 3 '
+[2025-07-09 18:03:24] Warning response[angry]: DROP DEAD, GCC! I hate your nagging about 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:03:24] Specific response[angry]: FORMAT MY ASS! This code is beautiful! 💢
+[2025-07-09 18:03:24] Warning response[angry]: BITE MY SHINY METAL ASS, GCC! Your bitching about 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:03:24] Specific response[angry]: FORMAT MY ASS! This code is beautiful! 💢
+[2025-07-09 18:03:24] Warning response[angry]: SUCK MY DICK, GCC! Stop your pathetic whining about 'format specifies type 'int' but the argument has type 'double' '
+[2025-07-09 18:03:24] Specific response[angry]: FORMAT MY ASS! This code is beautiful! 💢
+[2025-07-09 18:03:24] Warning response[angry]: GO FUCK A CACTUS, GCC! Your stupid opinions about 'using the result of an assignment as a condition without parentheses '
+[2025-07-09 18:03:24] Note[angry]: place parentheses around the assignment to silence this warning
+[2025-07-09 18:03:24] Note[angry]: use '==' to turn this assignment into an equality comparison
+[2025-07-09 18:03:24] Error response[angry]: WHAT KIND OF DRUGS ARE YOU ON, GCC?! This isn't an error: 'non-void function 'main' should return a value [-Wreturn-type]'
+[2025-07-09 18:03:24] Error response[angry]: ARE YOU FUCKING RETARDED, GCC?! This isn't an error: 'expected ';' at end of declaration'
+[2025-07-09 18:03:24] Warning response[angry]: SILENCE, GCC! Your complaint about 'unused variable 'another_unused' '
+[2025-07-09 18:03:24] Specific response[angry]: SO FUCKING WHAT if I don't use every damn variable?! 🤬
+[2025-07-09 18:03:24] Warning response[angry]: CRAM IT, GCC! I'm tired of 'unused variable 'value' '
+[2025-07-09 18:03:24] Specific response[angry]: SO FUCKING WHAT if I don't use every damn variable?! 🤬
+[2025-07-09 18:03:24] Warning response[angry]: GO CHOKE ON IT, GCC! Your stupid complaints about 'format specifies type 'int' but the argument has type 'const char *' '
+[2025-07-09 18:03:24] Specific response[angry]: FORMAT MY ASS! This code is beautiful! 💢
+[2025-07-09 18:03:24] Warning response[angry]: TAKE YOUR HEAD OUT OF YOUR ASS, GCC! Stop complaining about 'format specifies type 'char *' but the argument has type 'int' '
+[2025-07-09 18:03:24] Specific response[angry]: FORMAT MY ASS! This code is beautiful! 💢
+[2025-07-09 18:03:24] Warning response[angry]: BUZZ OFF with your nonsense about 'format specifies type 'double' but the argument has type 'const char *' '
+[2025-07-09 18:03:24] Specific response[angry]: FORMAT MY ASS! This code is beautiful! 💢
+[2025-07-09 18:03:24] Warning response[angry]: GO STEP ON A LEGO, GCC! Your idiotic concerns about 'more '%' conversions than data arguments '
+[2025-07-09 18:03:24] Warning response[angry]: EAT SHIT, GCC! Your complaints about 'data argument not used by format string '
+[2025-07-09 18:03:24] Specific response[angry]: FORMAT MY ASS! This code is beautiful! 💢
+Exit code: 1
+=== [2025-07-09 18:03:24] Compilation Ended ===
+
