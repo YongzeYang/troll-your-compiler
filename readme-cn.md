@@ -1,6 +1,6 @@
-# Warn-Compiler - 编译时警告GCC，而不是被GCC警告！
+# troll-your-compiler - 编译时嘲讽你的GCC，而不是被GCC嘲讽！
 
-一个超级抽象的GCC包装器，让你的程序反过来警告编译器，而不是被编译器警告！
+一个超级抽象的GCC包装器，让你的程序反过来嘲讽编译器，而不是被编译器嘲讽！
 
 For English version, [please click here](/readme.md).
 
